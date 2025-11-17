@@ -141,3 +141,27 @@ bisnis-digital-3d-game/
 │
 └── .media/                 # Gambar untuk README
     └── banner.png
+
+```bash
+
+```
+🚀 Proyek Utama
+Proyek akhir semester ini adalah mensimulasikan pendirian sebuah studio digital. Tujuannya adalah meluncurkan satu produk digital yang layak secara komersial:
+
+Pilihan A: Sebuah Asset Pack 3D (tema: "Sci-Fi Indonesia") untuk dijual di Unity Asset Store.
+
+Pilihan B: Sebuah Micro-Game (Hyper-casual) dengan 3 level, dimonetisasi melalui iklan.
+
+Pilihan C: Sebuah Virtual Exhibition (Web/PC) untuk klien (studi kasus).
+
+🤝 Kontribusi
+Repositori ini adalah jurnal pribadi, tetapi saya sangat terbuka untuk diskusi, feedback, dan kolaborasi. Jika Anda memiliki ide, menemukan sumber daya yang menarik, atau ingin memperbaiki sesuatu, silakan buka Issue atau Pull Request.
+
+📫 Mari Terhubung:
+
+YouTube
+https://www.youtube.com/@hafizhhasyhari/videos
+LinkedIn
+
+Portofolio
+mez.ink/hafizhhasyhari
