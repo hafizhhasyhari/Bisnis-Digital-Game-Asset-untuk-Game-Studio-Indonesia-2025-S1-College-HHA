@@ -1,0 +1,1 @@
+Tugas: Analisis 3 Studio Game Indie. Pilih 3 dari daftar ini (atau pilih sendiri): ConcernedApe (Stardew Valley), Team Cherry (Hollow Knight), Supergiant Games (Hades), Mojang (Minecraft awal). Jawab pertanyaan ini untuk masing-masing: 1. Apa model bisnis utama mereka? 2. Bagaimana cara mereka melakukan marketing awal? 3. Apa 1 pelajaran bisnis yang bisa diambil?
