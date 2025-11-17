@@ -1,0 +1,1 @@
+Ide Cerita (Bagian 1): Tulis 1 paragraf: Seorang seniman lukis tradisional (Kakek) yang skeptis, pertama kali 'dipaksa' mencoba tablet grafis oleh cucunya. Dia melihatnya sebagai 'seni tanpa jiwa'. Dia mencoba menggambar kendi, dan frustrasi karena hasilnya 'terlalu bersih' dan tidak ada 'tekstur' cat.
