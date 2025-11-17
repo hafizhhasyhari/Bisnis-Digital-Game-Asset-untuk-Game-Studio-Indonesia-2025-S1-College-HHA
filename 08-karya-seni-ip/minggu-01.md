@@ -1,0 +1,1 @@
+Tugas: Tentukan Brand Kit dasar untuk studio Anda. Buat file brand-kit.md. Tentukan: 1. Nama Studio (Fiktif). 2. Palet Warna (Pilih 5 HEX code). 3. Tipografi (Pilih 1 Font untuk Judul, 1 Font untuk Isi Teks).
